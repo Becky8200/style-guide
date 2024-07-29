@@ -1,3 +1,3 @@
 sphinx_markdown_tables
-sphinx_material
+sphinx_rtd
 datetime
